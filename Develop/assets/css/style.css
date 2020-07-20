@@ -63,13 +63,13 @@ header nav ul li a {
 /* end hero/jumbotron styling */
 
 /* start contents styling */
-.content {
+.services {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-.content article {
+.services article {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -78,26 +78,26 @@ header nav ul li a {
   color: #ffffff;
 }
 
-.content img {
+.services img {
   max-height: 200px;
 }
 
-.content .float-left {
+.services .float-left {
   float: left;
   margin-right: 25px;
 }
 
-.content .float-right {
+.services .float-right {
   float: right;
   margin-left: 25px;
 }
 
-.content h2 {
+.services h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.contents p, .benefits p {
+.services p, .benefits p {
   font-size: 16px;
 }
 
