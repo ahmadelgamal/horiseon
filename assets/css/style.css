@@ -62,7 +62,8 @@ header nav ul li a {
 }
 /* end hero/jumbotron styling */
 
-/* start contents styling */
+/* start main styling */
+/* start services styling */
 .services {
   width: 75%;
   display: inline-block;
@@ -100,7 +101,9 @@ header nav ul li a {
 .services p, .benefits p {
   font-size: 16px;
 }
+/* end services styling */
 
+/* start benefits styling */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -128,7 +131,7 @@ header nav ul li a {
   margin: 10px auto;
   max-width: 150px;
 }
-/* end content styling */
+/* end main styling */
 
 /* start footer styling */
 footer {
