@@ -35,6 +35,4 @@ GIVEN a webpage meets accessibility standards:
 ![Screenshot of Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Remaining work:
-1. Check function of `clear: both` declaration under `.benefits` selector.
-1. Check font discrepancy, especially in the `h2` elements under `.services` class.
 1. Apply **DRY** principle to font selection.
