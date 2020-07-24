@@ -33,6 +33,3 @@ GIVEN a webpage meets accessibility standards:
 
 ## Screenshot of Mock-UP:
 ![Screenshot of Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
-
-## Remaining work:
-1. Apply **DRY** principle to font selection.
