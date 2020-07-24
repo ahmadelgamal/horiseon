@@ -33,3 +33,6 @@ GIVEN a webpage meets accessibility standards:
 
 ## Screenshot of Mock-UP:
 ![Screenshot of Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
+
+## Screenshot of Completed Challenge:
+![Screenshot of Completed Website](./assets/images/screenshot-of-horiseon-COMPLETED.png)
