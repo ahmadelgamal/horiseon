@@ -33,7 +33,7 @@ header nav {
   margin-right: 20px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
-    sans-serif;
+  sans-serif;
   font-size: 20px;
 }
 
@@ -55,6 +55,7 @@ header nav ul li a {
 /* start hero/jumbotron styling */
 .hero {
   height: 800px;
+  /* I removed the `width: 100%;` declaration because it is redundant given the `background-size: cover;` property that follows */
   margin-bottom: 25px;
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
@@ -83,6 +84,7 @@ header nav ul li a {
   max-height: 200px;
 }
 
+/* I did not assume that the following are utility classes because of the margin values. Therefore, I added specificity to the selectors */
 .services .float-left {
   float: left;
   margin-right: 25px;
@@ -107,12 +109,11 @@ header nav ul li a {
 .benefits {
   margin-right: 20px;
   padding: 20px;
-  /* clear: both; */
   float: right;
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
-    sans-serif;
+  sans-serif;
   background-color: #2589bd;
 }
 
