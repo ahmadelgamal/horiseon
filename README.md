@@ -38,6 +38,3 @@ GIVEN a webpage meets accessibility standards:
 1. Check function of `clear: both` declaration under `.benefits` selector.
 1. Check font discrepancy, especially in the `h2` elements under `.services` class.
 1. Apply **DRY** principle to font selection.
-
-## Questions for Staff:
-1. `font-family: ‘Trebuchet MS’, ‘Lucida Sans Unicode’, ‘Lucida Grande’, ‘Lucida Sans’, Arial, sans-serif;`, `font-family: ‘Gill Sans’, ‘Gill Sans MT’, Calibri, ‘Trebuchet MS’, sans-serif;`. Why are `Arial` and `Calibri` not in quotes? Is it because they are each a `font-family` like `sans-serif`? How do we know this when writing future code?
