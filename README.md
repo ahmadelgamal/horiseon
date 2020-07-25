@@ -7,7 +7,7 @@ Ahmad El Gamal
 ## Deployment URL:
 https://ahmadelgamal.github.io/horiseon/
 
-## GitHub repository URL:
+## GitHub Repository URL:
 https://github.com/ahmadelgamal/horiseon/
 
 ## Project Description:
