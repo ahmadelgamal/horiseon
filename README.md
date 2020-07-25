@@ -1,4 +1,5 @@
 # Code Refactor Starter Code
+This project is the Week 1 Challenge at the UC Berkeley Extension blended-online full-stack coding bootcamp.
 
 ## Developer:
 Ahmad El Gamal
@@ -8,9 +9,6 @@ https://ahmadelgamal.github.io/horiseon/
 
 ## GitHub repository URL:
 https://github.com/ahmadelgamal/horiseon/
-
-## Scope:
-This project is the Week 1 Challenge at the UC Berkeley Extension blended-online full-stack coding bootcamp.
 
 ## Project Description:
 This week's assignment is to take existing code and:
