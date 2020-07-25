@@ -9,7 +9,8 @@
     <title>Horiseon</title>
   </head>
 
-  <!-- The body element contains the actual structure of the website, such as the text, images, etc and their flow or sequence. It is good practice to divide it into header, main and footer -->
+  <!-- The body element contains the actual structure of the website, such as the text, images, etc and their flow or sequence. -->
+  <!-- It is good practice to divide it into `header`, `main` and `footer` elements -->
   <body>
     <!-- The header element usually contains the logo and navigation bar -->
     <header>
@@ -33,18 +34,19 @@
       </nav>
     </header>
 
-    <!-- This section includes the hero/jumbotron image. It acts like a banner for the website. It usually attracts visitors attention to stay on the website -->
-    <section
-      class="hero"
-      role="img"
-      aria-label="Four employees working on web designs around a conference table"
-    ></section>
-
-    <!-- The main element is where the actual content of the website is written -->
+    <!-- The `main` element is where the actual content of the website is written -->
     <main>
-      <!-- This section element contains the content below the hero in the middle of the screen. -->
+      <!-- This `section` element includes the hero/jumbotron image. It acts like a banner for the website. It usually attracts visitors attention to stay on the website -->
+      <!-- I decided to move it to the `main` element instead of being hanging by itself -->
+      <section
+        class="hero"
+        role="img"
+        aria-label="Four employees working on web designs around a conference table"
+      ></section>
+
+      <!-- This `section` element contains the content below the hero in the middle of the screen. -->
       <section class="services">
-        <!-- I used the article element to wrap related data togther in the same element for sytling purposes -->
+        <!-- I used the `article` element to wrap related data togther in the same element for sytling purposes -->
         <article id="search-engine-optimization">
           <img
             src="./assets/images/search-engine-optimization.jpg"
@@ -90,7 +92,7 @@
         </article>
       </section>
 
-      <!-- This section element contains the information displayed on the right side of the screen below the hero -->
+      <!-- This `section` element contains the information displayed on the right side of the screen below the hero -->
       <section class="benefits">
         <article>
           <h3>Lead Generation</h3>
@@ -128,7 +130,7 @@
       </section>
     </main>
 
-    <!-- The footer element is usually used for navigation and copyright info as well as Privacy Policy and Terms of Service -->
+    <!-- The `footer` element is usually used for navigation and copyright info, as well as Privacy Policy and Terms of Service -->
     <footer>
       <h2>Made with ❤️️ by Horiseon</h2>
       <p>
