@@ -66,7 +66,7 @@ header nav ul li a {
   height: 800px;
   /* I removed the `width: 100%;` declaration because it is redundant given the `background-size: cover;` property that follows */
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-image: url("../images/digital-marketing-replacement-pic.jpg");
   background-size: cover;
   background-position: center;
 }
